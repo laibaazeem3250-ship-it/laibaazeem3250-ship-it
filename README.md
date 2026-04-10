@@ -1,5 +1,4 @@
 <div align="center">
-
 <h1>Hi I'm Laiba Azeem! 👩‍💻 </h1>
 <h3>Software Engineer | BSCS Student @ University of Education, Lahore 🚀</h3>
 
