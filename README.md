@@ -104,6 +104,6 @@
 ⭐ **If you like my projects, consider starring them!**
 **It keeps me motivated to keep building! 😊**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=laibaazeem3250-ship-it)
+![Profile Views](https://komarev.com/ghpvc/?username=laibaazeem3250-ship-it&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
