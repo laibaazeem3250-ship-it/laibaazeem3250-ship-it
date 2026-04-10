@@ -26,6 +26,14 @@
 
 ---
 
+## 🎯 Goals
+
+- Become a Full Stack Developer
+- Build real-world applications
+- Contribute to open source
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
