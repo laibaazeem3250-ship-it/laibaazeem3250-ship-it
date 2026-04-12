@@ -55,7 +55,7 @@
 | 📝 | [Java Notepad Clone](https://github.com/laibaazeem3250-ship-it/java-notepad-clone) | Fully functional Notepad with File & Edit menus | Java, OOP | - |
 | 📄 | [Simple Java Text Editor](https://github.com/laibaazeem3250-ship-it/SimpleJavaTextEditor) | Text editor built with Java Swing | Java Swing | - |
 | 🎭 | [Java Abstract Shapes](https://github.com/laibaazeem3250-ship-it/java-abstract-shapes) | Abstract shape drawing with Java | Java, Graphics | - |
-| 💓 | [Beating Heart Animation](https://github.com/laibaazeem3250-ship-it/beating-heart-animation) | Animated heart built with code | Java | - |
+| 💓 | [Beating Heart Animation](https://github.com/laibaazeem3250-ship-it/beating-heart-animation) | Animated heart built with code | HTML, CSS, JS | - |
 | 🖥️ | [Java Event-Driven GUI](https://github.com/laibaazeem3250-ship-it/java-event-driven-gui) | Buttons, listeners & event handling | Java Swing | - |
 | ☕ | [Java Swing GUI Lab](https://github.com/laibaazeem3250-ship-it/java-swing-gui-lab) | My Java GUI learning journey | Java Swing | - |
 | 🌐 | [Cafe Amora Frontend](https://github.com/laibaazeem3250-ship-it/cafe-amora-frontend) | Responsive café website | HTML, CSS, JS | [🔗 Live](https://laibaazeem3250-ship-it.github.io/cafe-amora-frontend/) |
