@@ -98,7 +98,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laiba%20Azeem-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/laiba-azeem-476812399)
 [![Gmail](https://img.shields.io/badge/Gmail-laibaazeem3250%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:laibaazeem3250@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-laibaazeem3250--ship--it-black?style=for-the-badge&logo=github)](https://github.com/laibaazeem3250-ship-it)
-
 </div>
 
 ---
