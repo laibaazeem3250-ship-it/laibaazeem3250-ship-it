@@ -14,7 +14,7 @@
 
 💻 **Software Engineer**
 
-☕ Currently learning **Java GUI & Event-Driven Programming**
+☕ Currently learning **Python**
 
 💡 I believe in **learning by building real projects**
 
